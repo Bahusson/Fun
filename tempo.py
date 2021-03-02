@@ -17,4 +17,4 @@ def fullhand(rolls, dice):
     print("streak!")
    
     
-fullhand(7,12)
+fullhand(6,49)

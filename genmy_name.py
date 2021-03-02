@@ -9,8 +9,11 @@ names = [
          "Urszula",
          "Izabela",
          "Kamila",
+         "Kornelia",
          "Milena",
-         "Sylwia",       
+         "Sylwia",
+         "Katarzyna",
+         "Laura",       
          ]
 
 her_name = random.choice(names)

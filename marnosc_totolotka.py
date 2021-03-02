@@ -9,3 +9,4 @@ while -500000 < score < 1:
     else:
         score -= 3
     print(score)
+    
